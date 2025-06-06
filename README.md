@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on more projects to build better portofolio<br>🌱 I’m currently learning about machine learning through Bangkit ML path<br>💬 Ask me about tech related stuffs!<br>⚡ Not so fun fact but i used darkmode in every software
+🔭 I’m currently working on more projects to build better portofolio<br>⚡ Not so fun fact but i used darkmode in every software
 
 
 ## 🌐 Socials:
