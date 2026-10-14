@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SFMono&size=35&pause=1000&color=583FFF&center=true&width=435&lines=Machine+Learning;Computer+Vision;Data+Engineering;NLP+%26+LLM;Mobile+Development;Game+Development;Web+Development)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I’m currently working on more projects to build better portofolio<br>⚡ Not so fun fact but i used darkmode in every software
 
